@@ -13,7 +13,8 @@ Steps:
 3)They are joined together using the line function in cv2
 4)The top left of the screen shows whethe we are using a pen or an eraser.
 5)The drawing are done on grayscale images and then there are add with the original frame capurted.
-6)In case of eraser a circle is drawn of radius=20 from the co-ordinates from 
+6)In case of eraser a circle is drawn on the grayscale image of radius=20 from the co-ordinates from received from the virtual pen.
+
 
 Requirements:
 1)Opencv
