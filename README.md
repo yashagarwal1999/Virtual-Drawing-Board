@@ -1,6 +1,6 @@
 # Virtual-Drawing-Borad
 In this drawing Board you can wave your pen in the air and draw shapes or write text on live video feed captured through your webcam.
-Features:
+Features:\n
 1)Draw shapes or write text by waving your pen in the air on live video
 2)Erase specific part you have drawn
 3)Clear the enitre Canvas
